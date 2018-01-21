@@ -1,0 +1,6 @@
+a0.2
+- Simulated lap times are no longer same as best lap time if skill level is 100
+- Added code to take input
+
+a0.1
+- Inital release
